@@ -1,0 +1,42 @@
+16:11:30.252  INFO  [lib DB_BailesDeSalon] Qizx 4.4p1 creating new XML Library in C:\Users\coleg\OneDrive\Documentos\1 DAW\LENGUAJE DE MARCAS\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+16:11:30.252  INFO  [lib DB_BailesDeSalon] create storage in C:\Users\coleg\OneDrive\Documentos\1 DAW\LENGUAJE DE MARCAS\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon\contents.qdb
+16:11:30.255  INFO  [lib DB_BailesDeSalon] storage created
+16:11:30.348  INFO  [lib DB_BailesDeSalon] library creation done
+16:14:19.353  INFO  [lib DB_BailesDeSalon] commit start DB_BailesDeSalon (session 1)
+16:14:19.365  INFO  [lib DB_BailesDeSalon] commit 1 on DB_BailesDeSalon (session 1)
+16:14:19.376  INFO  [lib DB_BailesDeSalon] commit 1 done
+16:14:19.376  INFO  [lib DB_BailesDeSalon] commit end DB_BailesDeSalon (session 1) -> state: [ 1 ][ 1 2 ]
+16:14:19.377  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 metadocs: 5
+16:54:20.786  INFO  [lib DB_BailesDeSalon] All sessions closed
+16:54:20.786  INFO  [lib DB_BailesDeSalon] Sweeper stopped
+16:54:20.787  INFO  [lib DB_BailesDeSalon] library closed 
+16:55:10.534  INFO  [lib DB_BailesDeSalon] Library opened by Qizx 4.4p1
+16:55:10.535  INFO  [lib DB_BailesDeSalon]  location C:\Users\coleg\OneDrive\Documentos\1 DAW\LENGUAJE DE MARCAS\UD6\Actividad2\GrupoLibreriasXML\DB_BailesDeSalon
+16:55:10.535  INFO  [lib DB_BailesDeSalon]  document storage version=5, lastBId=13, BCount=12, maxA=502
+17:14:20.278  INFO  [lib DB_BailesDeSalon] commit start DB_BailesDeSalon (session 1)
+17:14:20.308  INFO  [lib DB_BailesDeSalon] commit 2 on DB_BailesDeSalon (session 1)
+17:14:20.319  INFO  [lib DB_BailesDeSalon] commit 2 done
+17:14:20.319  INFO  [lib DB_BailesDeSalon] commit end DB_BailesDeSalon (session 1) -> state: [ 1 2 ][ 1 2 3 ]
+17:14:20.320  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 docs: 8 in ms 0.2757
+17:14:20.320  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 metadocs: 9
+18:33:49.475  INFO  [lib DB_BailesDeSalon] commit start DB_BailesDeSalon (session 1)
+18:33:49.488  INFO  [lib DB_BailesDeSalon] commit 3 on DB_BailesDeSalon (session 1)
+18:33:49.498  INFO  [lib DB_BailesDeSalon] commit 3 done
+18:33:49.498  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 docs: 14 in ms 0.0602
+18:33:49.498  INFO  [lib DB_BailesDeSalon] commit end DB_BailesDeSalon (session 1) -> state: [ 1 2 3 ][ 1 2 3 4 ]
+18:33:49.498  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 metadocs: 15
+18:37:18.706  INFO  [lib DB_BailesDeSalon] commit start DB_BailesDeSalon (session 1)
+18:37:18.719  INFO  [lib DB_BailesDeSalon] commit 4 on DB_BailesDeSalon (session 1)
+18:37:18.729  INFO  [lib DB_BailesDeSalon] commit 4 done
+18:37:18.729  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 docs: 18 in ms 0.0393
+18:37:18.729  INFO  [lib DB_BailesDeSalon] commit end DB_BailesDeSalon (session 1) -> state: [ 1 2 3 4 ][ 1 2 3 4 5 ]
+18:37:18.729  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 metadocs: 19
+18:43:53.881  INFO  [lib DB_BailesDeSalon] commit start DB_BailesDeSalon (session 1)
+18:43:53.892  INFO  [lib DB_BailesDeSalon] commit 5 on DB_BailesDeSalon (session 1)
+18:43:53.900  INFO  [lib DB_BailesDeSalon] commit 5 done
+18:43:53.900  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 docs: 22 in ms 0.0419
+18:43:53.900  INFO  [lib DB_BailesDeSalon] commit end DB_BailesDeSalon (session 1) -> state: [ 1 2 3 4 5 ][ 1 2 3 4 5 6 ]
+18:43:53.900  INFO  [lib DB_BailesDeSalon] sweeper deleted 1/1 metadocs: 23
+18:49:04.762  INFO  [lib DB_BailesDeSalon] All sessions closed
+18:49:04.764  INFO  [lib DB_BailesDeSalon] Sweeper stopped
+18:49:04.764  INFO  [lib DB_BailesDeSalon] library closed 

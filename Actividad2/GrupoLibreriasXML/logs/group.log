@@ -1,0 +1,11 @@
+16:11:08.403  INFO  [LibraryManager] ---- group creation in C:\Users\coleg\OneDrive\Documentos\1 DAW\LENGUAJE DE MARCAS\UD6\Actividad2\GrupoLibreriasXML
+16:11:08.403  INFO  [LibraryManager]  100
+16:54:20.784  INFO  [LibraryManager] shutdown begins
+16:54:20.787  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+16:54:20.787  INFO  [LibraryManager] shutdown complete.
+16:55:10.486  INFO  [LibraryManager] ---- starting up ----
+16:55:10.487  INFO  [LibraryManager]  100
+16:55:10.535  INFO  [LibraryManager] Library group ready
+18:49:04.762  INFO  [LibraryManager] shutdown begins
+18:49:04.764  INFO  [LibraryManager]  closed library DB_BailesDeSalon
+18:49:04.764  INFO  [LibraryManager] shutdown complete.
