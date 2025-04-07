@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<Autores>
+            <autor>
+                <Cod_Autor>1</Cod_Autor>
+                <Nombre>Miguel</Nombre>
+                <Apellidos>de Cervantes Saavedra</Apellidos>
+                <FechaNacimiento>29/09/1547</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>2</Cod_Autor>
+                <Nombre>Fernando</Nombre>
+                <Apellidos>de Rojas</Apellidos>
+                <FechaNacimiento>01/01/1470</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>3</Cod_Autor>
+                <Nombre>Alex</Nombre>
+                <Apellidos>Rovira Celma</Apellidos>
+                <FechaNacimiento>01/03/1969</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>4</Cod_Autor>
+                <Nombre>Nieves</Nombre>
+                <Apellidos>Concostrina</Apellidos>
+                <FechaNacimiento>01/03/1961</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>5</Cod_Autor>
+                <Nombre>Daniel</Nombre>
+                <Apellidos>Glattauer</Apellidos>
+                <FechaNacimiento>02/04/1960</FechaNacimiento>
+                <Nacionalidad>Austriaca</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>6</Cod_Autor>
+                <Nombre>Erica</Nombre>
+                <Apellidos>Bauermeister</Apellidos>
+                <FechaNacimiento>25/5/1959</FechaNacimiento>
+                <Nacionalidad>Estadounidense</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>7</Cod_Autor>
+                <Nombre>John</Nombre>
+                <Apellidos>Updike</Apellidos>
+                <FechaNacimiento>28/7/1932</FechaNacimiento>
+                <Nacionalidad>Estadounidense</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>8</Cod_Autor>
+                <Nombre>Stephen</Nombre>
+                <Apellidos>King</Apellidos>
+                <FechaNacimiento>21/09/1947</FechaNacimiento>
+                <Nacionalidad>Estadounidense</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>9</Cod_Autor>
+                <Nombre>Javier</Nombre>
+                <Apellidos>Reverte</Apellidos>
+                <FechaNacimiento>01/01/1944</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+<Autores>
+            <autor>
+                <Cod_Autor>10</Cod_Autor>
+                <Nombre>Pierre</Nombre>
+                <Apellidos>Dukan</Apellidos>
+                <FechaNacimiento>02/09/1934</FechaNacimiento>
+                <Nacionalidad>Francesa</Nacionalidad>
+            </autor>
+        </Autores>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<libro>
+        <Cod_Libro>8</Cod_Libro>
+        <Titulo>La cupula</Titulo>
+        <Editorial>Plaza y Janes Editores</Editorial>
+        <Edicion>1</Edicion>
+        <ISBN>9788401337529</ISBN>
+        <NumPaginas>1136</NumPaginas>
+        <Autores>
+            <autor>
+                <Cod_Autor>8</Cod_Autor>
+                <Nombre>Stephen</Nombre>
+                <Apellidos>King</Apellidos>
+                <FechaNacimiento>21/09/1947</FechaNacimiento>
+                <Nacionalidad>Estadounidense</Nacionalidad>
+            </autor>
+        </Autores>
+    </libro>
+<libro>
+        <Cod_Libro>9</Cod_Libro>
+        <Titulo>En mares salvajes: Un viaje al artico</Titulo>
+        <Editorial>Plaza y Janes Editores</Editorial>
+        <Edicion>1</Edicion>
+        <ISBN>9788401347542</ISBN>
+        <NumPaginas>448</NumPaginas>
+        <Autores>
+            <autor>
+                <Cod_Autor>9</Cod_Autor>
+                <Nombre>Javier</Nombre>
+                <Apellidos>Reverte</Apellidos>
+                <FechaNacimiento>01/01/1944</FechaNacimiento>
+                <Nacionalidad>Española</Nacionalidad>
+            </autor>
+        </Autores>
+    </libro>
