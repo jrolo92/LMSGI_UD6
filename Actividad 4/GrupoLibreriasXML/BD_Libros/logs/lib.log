@@ -1,0 +1,9 @@
+13:36:41.791  INFO  [lib BD_Libros] Qizx 4.4p1 creating new XML Library in C:\Users\coleg\OneDrive\Documentos\1 DAW\LENGUAJE DE MARCAS\UD6\Actividad 4\GrupoLibreriasXML\BD_Libros
+13:36:41.791  INFO  [lib BD_Libros] create storage in C:\Users\coleg\OneDrive\Documentos\1 DAW\LENGUAJE DE MARCAS\UD6\Actividad 4\GrupoLibreriasXML\BD_Libros\contents.qdb
+13:36:41.794  INFO  [lib BD_Libros] storage created
+13:36:41.870  INFO  [lib BD_Libros] library creation done
+13:37:14.823  INFO  [lib BD_Libros] commit start BD_Libros (session 1)
+13:37:14.834  INFO  [lib BD_Libros] commit 1 on BD_Libros (session 1)
+13:37:14.845  INFO  [lib BD_Libros] commit 1 done
+13:37:14.846  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 ][ 1 2 ]
+13:37:14.846  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 5
