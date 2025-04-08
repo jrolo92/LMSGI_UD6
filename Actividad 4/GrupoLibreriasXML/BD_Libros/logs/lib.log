@@ -7,3 +7,6 @@
 13:37:14.845  INFO  [lib BD_Libros] commit 1 done
 13:37:14.846  INFO  [lib BD_Libros] commit end BD_Libros (session 1) -> state: [ 1 ][ 1 2 ]
 13:37:14.846  INFO  [lib BD_Libros] sweeper deleted 1/1 metadocs: 5
+14:21:01.866  INFO  [lib BD_Libros] All sessions closed
+14:21:01.866  INFO  [lib BD_Libros] Sweeper stopped
+14:21:01.867  INFO  [lib BD_Libros] library closed 

@@ -1,0 +1,5 @@
+14:12:27.537  INFO  [LibraryManager] ---- group creation in C:\Users\coleg\OneDrive\Documentos\1 DAW\LENGUAJE DE MARCAS\UD6\Actividad 5\GrupoLibreriasXML
+14:12:27.538  INFO  [LibraryManager]  100
+14:39:29.501  INFO  [LibraryManager] shutdown begins
+14:39:29.503  INFO  [LibraryManager]  closed library BD_Libros
+14:39:29.503  INFO  [LibraryManager] shutdown complete.
